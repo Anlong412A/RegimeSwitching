@@ -1,4 +1,5 @@
 #### NOTES
+If the documents cannot be viewed online, they can be download to the local PC.  
 1. The priors for the estimates in the excel files  
 p_{00}: beta(2,2)  
 p_{11}: beta(50,2)  
