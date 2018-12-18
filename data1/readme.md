@@ -9,3 +9,6 @@ mu_{i0} and mu_{i1}: normal(0,100)
 3. The posteriors are from  
 (1) p_{00}: beta(2,2), p_{11}: beta(50,2): pij_prior2_posterior_500,000.esp.    
 (2) p_{00}: beta(2,2), p_{11}: beta(30,2): pij_prior_posterior_500,000.esp  
+4. Priors for 1/sigma2.  
+(1) Prior 1: inverted gamma(1,1)  
+(2) Prior 2: inverted gamma(0,0){improper}    
